@@ -14,5 +14,13 @@
   },
   "author": "",
   "license": "ISC",
-  "keywords": []
+  "keywords": [],
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/tklarrabee/star-war.git"
+  },
+  "bugs": {
+    "url": "https://github.com/tklarrabee/star-war/issues"
+  },
+  "homepage": "https://github.com/tklarrabee/star-war#readme"
 }
